@@ -1,0 +1,16 @@
+/*
+Theme Name:     Final Exam V2
+Description:    
+Author:         Camden
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playtypi:ital,wght@,300..800;1,000..800&display=swap');
+.alignwide.wp-block-heading
+{
+	font-family: "Platypi", serif;
+	background: blue;
+}
